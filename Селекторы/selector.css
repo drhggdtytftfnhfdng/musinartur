@@ -1,0 +1,150 @@
+/* h1,h2,h3{
+    text-align: center;
+} */
+
+
+
+/* h1,h2,h3{
+    text-align: center
+}h3{
+    font-size: 16px;
+    color: red;
+
+}h2{
+    color: blue;
+} */
+
+
+
+/* h1,h2,h3{
+    text-align: center;
+    color: red;
+}h3{
+    font-size: 16px;
+} */
+
+/* 25 */
+
+/* ul i {
+	color: red;
+}p i{
+    color: green;
+} */
+
+
+/* b,i{
+    color: red;
+} */
+
+
+
+/* 26
+
+b>i{
+    color: red;
+} */
+
+/* 27
+.odd{
+    color: red;
+}.eve{
+    color: green;
+}
+
+.eee{
+    color: red;
+} */
+
+
+/* 28
+.xxx{
+    font-size: 30px;
+} */
+
+
+
+/* 29
+.aaa1{
+    color: red;
+}.aaa2{
+    color: green;
+}.aaa3{
+    color: blue;
+}
+
+
+.red{
+    color: red;
+}.green{
+    color: green;
+} */
+
+
+
+
+/* 30
+.eee,.zzz{
+    line-height: 1.5;
+	font-family: Arial;
+}.eee{
+    font-size: 20px;
+}.zzz{
+    font-size: 30px;
+}
+
+
+   .eee,.zzz,.ggg{
+    text-align: center;
+	font-family: Arial;
+   } .eee{
+    font-size: 20px;
+   }.zzz{
+    font-size: 30px;
+   }.ggg{
+    font-size:  35px;
+   } */
+
+/* 31
+h2.header{
+    font-size: 40px;
+}h3.header{
+    font-size: 30px;
+}
+
+
+.eee i{
+    color: red;
+} */
+
+
+/* 34
+.success {
+	color: green;
+}
+.error {
+	color: red;
+}
+.large {
+	font-size: 30px;
+}
+.small {
+	font-size: 20px;
+}
+
+.eee,.rrr,.ttt{
+    color: blue;
+} */
+
+
+/* 35
+#elem1{
+    color: red;
+}#elem2{
+    color: green;
+}#elem3{
+    color: blue;
+} */
+
+
+
+
